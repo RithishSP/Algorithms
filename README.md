@@ -1,4 +1,4 @@
-# [Coursera Algorithms Specialization by Stanford](https://www.coursera.org/specializations/algorithms)
+# [Coursera Algorithms Specialization by Stanford University](https://www.coursera.org/specializations/algorithms)
 
 ## Coding Language
 Python 3
